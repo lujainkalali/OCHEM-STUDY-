@@ -1,0 +1,16 @@
+{
+  "name": "OCHEM STUDY",
+  "short_name": "OCHEM",
+  "description": "Organic chemistry study PWA",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/pwa_192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
